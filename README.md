@@ -1,4 +1,4 @@
-# Android App Development October Major Project
+# Android App Development Project
 ## Project Description
 Create A Simple Ecommerce App For Electronics Store
 
